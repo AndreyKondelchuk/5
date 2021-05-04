@@ -4,70 +4,23 @@
     {
       "icon": {
         "paths": [
-          "M1024 512c0 282.77-229.23 512-512 512s-512-229.23-512-512c0-282.77 229.23-512 512-512s512 229.23 512 512z",
-          "M1006.933 512c0 273.344-221.589 494.933-494.933 494.933s-494.933-221.589-494.933-494.933c0-273.344 221.589-494.933 494.933-494.933s494.933 221.589 494.933 494.933z",
-          "M716.8 345.016l-37.816-37.816-149.917 149.917-149.917-149.917-37.816 37.816 149.917 149.917-149.917 149.917 37.816 37.816 149.917-149.917 149.917 149.917 37.816-37.816-149.917-149.917 149.917-149.917z"
+          "M853.333 233.692l-63.027-63.025-249.862 249.864-249.864-249.864-63.025 63.025 249.864 249.864-249.864 249.862 63.025 63.027 249.864-249.864 249.862 249.864 63.027-63.027-249.862-249.862 249.862-249.864z"
         ],
-        "attrs": [
-          {
-            "fill": "rgb(255, 255, 255)"
-          },
-          {
-            "fill": "none",
-            "stroke": "rgb(0, 0, 0)",
-            "strokeLinejoin": "miter",
-            "strokeLinecap": "butt",
-            "strokeMiterlimit": "4",
-            "strokeWidth": 34.13333333333333
-          },
-          {
-            "fill": "rgb(0, 0, 0)"
-          }
-        ],
-        "isMulticolor": true,
-        "isMulticolor2": true,
+        "attrs": [],
         "grid": 0,
         "tags": [
-          "close"
-        ],
-        "colorPermutations": {
-          "12552552551": [
-            {
-              "f": 1
-            },
-            {
-              "s": 0
-            },
-            {
-              "f": 0
-            }
-          ]
-        }
+          "close-black"
+        ]
       },
-      "attrs": [
-        {
-          "fill": "rgb(255, 255, 255)"
-        },
-        {
-          "fill": "none",
-          "stroke": "rgb(0, 0, 0)",
-          "strokeLinejoin": "miter",
-          "strokeLinecap": "butt",
-          "strokeMiterlimit": "4",
-          "strokeWidth": 34.13333333333333
-        },
-        {
-          "fill": "rgb(0, 0, 0)"
-        }
-      ],
+      "attrs": [],
       "properties": {
-        "order": 33,
+        "order": 40,
         "id": 0,
-        "name": "close",
+        "name": "close-black",
         "prevSize": 32
       },
       "setIdx": 0,
-      "setId": 5,
+      "setId": 6,
       "iconIdx": 0
     },
     {
@@ -86,12 +39,12 @@
       },
       "attrs": [],
       "properties": {
-        "order": 27,
+        "order": 37,
         "id": 5,
         "name": "logo1",
         "prevSize": 32
       },
-      "setIdx": 1,
+      "setIdx": 2,
       "setId": 4,
       "iconIdx": 0
     },
@@ -133,7 +86,7 @@
         "name": "logo2",
         "prevSize": 32
       },
-      "setIdx": 1,
+      "setIdx": 2,
       "setId": 4,
       "iconIdx": 1
     },
@@ -168,7 +121,7 @@
         "name": "logo3",
         "prevSize": 32
       },
-      "setIdx": 1,
+      "setIdx": 2,
       "setId": 4,
       "iconIdx": 2
     },
@@ -194,7 +147,7 @@
         "name": "logo4",
         "prevSize": 32
       },
-      "setIdx": 1,
+      "setIdx": 2,
       "setId": 4,
       "iconIdx": 3
     },
@@ -226,7 +179,7 @@
         "name": "logo5",
         "prevSize": 32
       },
-      "setIdx": 1,
+      "setIdx": 2,
       "setId": 4,
       "iconIdx": 4
     },
@@ -266,7 +219,7 @@
         "name": "logo6",
         "prevSize": 32
       },
-      "setIdx": 1,
+      "setIdx": 2,
       "setId": 4,
       "iconIdx": 5
     },
@@ -326,7 +279,7 @@
         "name": "antena",
         "prevSize": 32
       },
-      "setIdx": 2,
+      "setIdx": 3,
       "setId": 3,
       "iconIdx": 0
     },
@@ -576,7 +529,7 @@
         "name": "astronaut",
         "prevSize": 32
       },
-      "setIdx": 2,
+      "setIdx": 3,
       "setId": 3,
       "iconIdx": 1
     },
@@ -656,7 +609,7 @@
         "name": "clock",
         "prevSize": 32
       },
-      "setIdx": 2,
+      "setIdx": 3,
       "setId": 3,
       "iconIdx": 2
     },
@@ -746,7 +699,7 @@
         "name": "diagram",
         "prevSize": 32
       },
-      "setIdx": 2,
+      "setIdx": 3,
       "setId": 3,
       "iconIdx": 3
     },
@@ -770,7 +723,7 @@
         "name": "Client1",
         "prevSize": 32
       },
-      "setIdx": 3,
+      "setIdx": 4,
       "setId": 2,
       "iconIdx": 0
     },
@@ -811,7 +764,7 @@
         "name": "Client2",
         "prevSize": 32
       },
-      "setIdx": 3,
+      "setIdx": 4,
       "setId": 2,
       "iconIdx": 1
     },
@@ -845,7 +798,7 @@
         "name": "Client3",
         "prevSize": 32
       },
-      "setIdx": 3,
+      "setIdx": 4,
       "setId": 2,
       "iconIdx": 2
     },
@@ -870,7 +823,7 @@
         "name": "Client4",
         "prevSize": 32
       },
-      "setIdx": 3,
+      "setIdx": 4,
       "setId": 2,
       "iconIdx": 3
     },
@@ -901,7 +854,7 @@
         "name": "Client5",
         "prevSize": 32
       },
-      "setIdx": 3,
+      "setIdx": 4,
       "setId": 2,
       "iconIdx": 4
     },
@@ -940,7 +893,7 @@
         "name": "Client6",
         "prevSize": 32
       },
-      "setIdx": 3,
+      "setIdx": 4,
       "setId": 2,
       "iconIdx": 5
     },
@@ -962,7 +915,7 @@
         "name": "envelope",
         "prevSize": 32
       },
-      "setIdx": 3,
+      "setIdx": 4,
       "setId": 2,
       "iconIdx": 6
     },
@@ -984,7 +937,7 @@
         "name": "facebook1",
         "prevSize": 32
       },
-      "setIdx": 3,
+      "setIdx": 4,
       "setId": 2,
       "iconIdx": 7
     },
@@ -1006,7 +959,7 @@
         "name": "facebook2",
         "prevSize": 32
       },
-      "setIdx": 3,
+      "setIdx": 4,
       "setId": 2,
       "iconIdx": 8
     },
@@ -1030,7 +983,7 @@
         "name": "instagram1",
         "prevSize": 32
       },
-      "setIdx": 3,
+      "setIdx": 4,
       "setId": 2,
       "iconIdx": 9
     },
@@ -1054,7 +1007,7 @@
         "name": "instagram2",
         "prevSize": 32
       },
-      "setIdx": 3,
+      "setIdx": 4,
       "setId": 2,
       "iconIdx": 10
     },
@@ -1078,7 +1031,7 @@
         "name": "linkedin1",
         "prevSize": 32
       },
-      "setIdx": 3,
+      "setIdx": 4,
       "setId": 2,
       "iconIdx": 11
     },
@@ -1102,7 +1055,7 @@
         "name": "linkedin2",
         "prevSize": 32
       },
-      "setIdx": 3,
+      "setIdx": 4,
       "setId": 2,
       "iconIdx": 12
     },
@@ -1124,7 +1077,7 @@
         "name": "phone",
         "prevSize": 32
       },
-      "setIdx": 3,
+      "setIdx": 4,
       "setId": 2,
       "iconIdx": 13
     },
@@ -1146,7 +1099,7 @@
         "name": "twitter1",
         "prevSize": 32
       },
-      "setIdx": 3,
+      "setIdx": 4,
       "setId": 2,
       "iconIdx": 14
     },
@@ -1168,7 +1121,7 @@
         "name": "twitter2",
         "prevSize": 32
       },
-      "setIdx": 3,
+      "setIdx": 4,
       "setId": 2,
       "iconIdx": 15
     }
