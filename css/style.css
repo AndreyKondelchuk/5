@@ -648,7 +648,7 @@ ul {
   border-radius: 50%;
   padding: 5px;
   background-color: var(--background-color);
-  background-image: url("/img/icomoon/SVG/close-black.svg");
+  background-image: url("/img/close-black.svg");
   background-size: contain;
 }
 .thumb {
